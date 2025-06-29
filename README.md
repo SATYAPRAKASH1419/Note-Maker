@@ -4,14 +4,14 @@ A clean and efficient note-taking app with features like CRUD operations, trash 
 
 ## 🔧 Tech Stack
 
-- **Frontend**: React, TypeScript, TailwindCSS (or your preferred CSS framework)
+- **Frontend**: React, TypeScript, TailwindCSS 
 - **Backend**: Node.js, Express.js
 - **Database**: PostgreSQL
 - **ORM**: Prisma
 - **Authentication**: JWT (or Auth-based)
-- **State Management**: React Context API or Redux (optional)
-- **API Testing**: Postman, ThunderClient
-- **Deployment**: Vercel / Render / Railway / Docker (based on preference)
+- **State Management**: React Context API or Redux 
+- **API Testing**: Postman
+- **Deployment**: Vercel 
 
 ---
 
