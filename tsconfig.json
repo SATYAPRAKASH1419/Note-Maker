@@ -2,7 +2,8 @@
   "compilerOptions": {
     "forceConsistentCasingInFileNames": true,
     "strict": true,
-    "erasableSyntaxOnly": false
+    "erasableSyntaxOnly": false,
+    "noUnusedLocals": false,
   },
   "files": [],
   "references": [
