@@ -48,18 +48,18 @@ export const SignUp = ({ setIsSignIn }: SignUpProps) => {
       <FormInput
         label="FirstName"
         setValue={setFirstName}
-        placeHolder="satya"
+        placeHolder="Enter your  FirstName"
       />
       <FormInput
         label="LastName"
         setValue={setLastName}
-        placeHolder="prakash"
+        placeHolder="Enter your LastName"
       />
       <FormInput
         label="Email"
         setValue={setEmail}
         type="email"
-        placeHolder="satya@gmail.com"
+        placeHolder="Enter your Email"
       />
       <FormInput
         label="Password"

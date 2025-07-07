@@ -44,7 +44,7 @@ export const SignIn = ({ setIsSignIn }: SignInProps) => {
         label="Email"
         setValue={setEmail}
         type="email"
-        placeHolder="satya@gmail.com"
+        placeHolder="Enter your Email"
       />
       <FormInput
         label="Password"
