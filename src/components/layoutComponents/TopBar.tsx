@@ -49,7 +49,7 @@ export const TopBar = ({
           }}
           className="flex justify-center items-center cursor-pointer"
         >
-          <img src="/src\assets\NoteLogo.png" alt="" className="w-12 h-12" />
+          <img src="../../NoteLogo.png" alt="" className="w-12 h-12" />
           <div className="text-2xl font-bold text-primary">NoteFlow</div>
         </div>
       </div>
