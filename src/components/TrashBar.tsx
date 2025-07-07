@@ -118,7 +118,7 @@ export const TrashBar = ({
                     <div>
                       <RotateCw className="w-5 h-5 mt-0.5" />
                     </div>
-                    <div>Undelete</div>
+                    <div>Restore</div>
                   </div>
                   <div
                     className="px-4 py-2 flex  justify-center items-center gap-2 hover:bg-white/20 cursor-pointer text-sm text-red-400"
