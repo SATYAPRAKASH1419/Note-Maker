@@ -1,1 +1,1 @@
-export const BACKEND_URL="https://notemakerbackend-production.up.railway.app/api/v1"
+export const BACKEND_URL="https://notemakerbackend-uo4b.onrender.com/api/v1"
